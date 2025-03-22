@@ -51,6 +51,6 @@
         "redux": "^4.0.1",
         "redux-thunk": "^2.2.0",
         "scratch-blocks": "^1.0.7",
-        "shx": "^0.3.2"
+        "shx": "^0.4.0"
     }
 }
